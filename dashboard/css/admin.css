@@ -1,0 +1,55 @@
+/* Move It */
+.mi-widget-title {
+	padding: 0px 12px 12px;
+	margin-top: 8px;
+}
+.hide {
+	display: none;
+}
+
+.column {
+	width: 100%;
+}
+.portlet {
+	margin: 0 1em 1em 0;
+	padding: 0.3em;
+}
+.portlet-add {
+	cursor: pointer;
+}
+.portlet-header {
+	padding: 0.2em 0.3em;
+	margin-bottom: 0.5em;
+	position: relative;
+}
+.portlet-toggle {
+	position: absolute;
+	top: 50%;
+	right: 0;
+	margin-top: -8px;
+}
+.portlet-content {
+	padding: 0.4em;
+}
+.portlet-placeholder {
+	border: 1px dotted black;
+	margin: 0 1em 1em 0;
+	height: 50px;
+}
+
+.text-right {
+	text-align: right;
+}
+.text-left {
+	text-align: left;
+}
+
+.upload-sortable {
+	width: 100%;
+}
+.upload-sortable li {
+	display: inline-block;
+}
+.upload-handle {
+	cursor: move;
+}
